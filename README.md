@@ -1,6 +1,6 @@
 ### Hi, I'm Dhanes 👋
 
-Data scientist with 8+ years across telecom, banking, geospatial and commerce, building causal models and LLM-powered data products. Now doing an MPhil in Smart Mobility at Hiroshima University (Urban and Data Science Lab).
+Senior Data Scientist with 8+ years across telecom, banking, geospatial and commerce, building causal models and LLM-powered data products. Now doing an MPhil in Smart Mobility at Hiroshima University (Urban and Data Science Lab).
 
 🌐 **CV and portfolio:** [dhaneswaramandrasa.github.io](https://dhaneswaramandrasa.github.io)
 📄 **CV (PDF):** [download](https://dhaneswaramandrasa.github.io/Dhaneswara_Triweko_CV.pdf)

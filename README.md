@@ -1,18 +1,14 @@
-## Hi there 👋
+### Hi, I'm Dhanes 👋
 
-<!--
-**dhaneswaramandrasa/dhaneswaramandrasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist with 8+ years across telecom, banking, geospatial and commerce, building causal models and LLM-powered data products. Now doing an MPhil in Smart Mobility at Hiroshima University (Urban and Data Science Lab).
 
-Here are some ideas to get you started:
+🌐 **CV and portfolio:** [dhaneswaramandrasa.github.io](https://dhaneswaramandrasa.github.io)
+📄 **CV (PDF):** [download](https://dhaneswaramandrasa.github.io/Dhaneswara_Triweko_CV.pdf)
+💼 **LinkedIn:** [linkedin.com/in/dhaneswaramandrasa](https://www.linkedin.com/in/dhaneswaramandrasa)
+✉️ dhaneswara.mandrasa@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current research:** using LLMs to turn OpenStreetMap places into structured features, then testing whether they improve causal and discrete-choice models of urban pricing policy. The case study is NYC's January 2025 congestion toll.
 
-https://dhaneswaramandrasa.github.io
+**What I work with:** causal inference (difference-in-differences), discrete choice and ICLV models, XGBoost and SHAP, LLM prompt design and evaluation, Python, SQL, PySpark, Snowflake, Databricks, geospatial data.
+
+**Open to:** remote roles in decision science, applied AI, pricing and marketplace analytics, and mobility or transport data.

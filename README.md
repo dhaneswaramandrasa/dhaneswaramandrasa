@@ -1,4 +1,4 @@
-### Hi, I'm Dhanes 👋
+### Hi, I'm Dhanes
 
 Senior Data Scientist with 8+ years across telecom, banking, geospatial and commerce, building causal models and LLM-powered data products. Now doing an MPhil in Smart Mobility at Hiroshima University (Urban and Data Science Lab).
 

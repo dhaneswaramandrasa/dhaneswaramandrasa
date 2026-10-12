@@ -2,7 +2,7 @@
 
 Senior Data Scientist with 8+ years across telecom, banking, geospatial and commerce, building causal models and LLM-powered data products. Now doing an MPhil in Smart Mobility at Hiroshima University (Urban and Data Science Lab).
 
- **CV and portfolio:** [dhaneswaramandrasa.github.io](https://dhaneswaramandrasa.github.io)
+ **CV and portfolio:** [dhaneswaramandrasa.vercel.app](https://dhaneswaramandrasa.vercel.app)
  **CV (PDF):** [download](https://dhaneswaramandrasa.github.io/Dhaneswara_Mandrasa_CV.pdf)
  **LinkedIn:** [linkedin.com/in/dhaneswaramandrasa](https://www.linkedin.com/in/dhaneswaramandrasa)
  **email:** dhaneswara.mandrasa@gmail.com

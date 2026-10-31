@@ -2,17 +2,17 @@
 
 Senior Data Scientist with 8+ years across telecom, banking, geospatial and commerce, building causal models and LLM-powered data products. Now doing an MPhil in Smart Mobility at Hiroshima University (Urban and Data Science Lab).
 
-<p align="center">
-  <a href="https://dhaneswara-mandrasa.vercel.app"><img src="assets/jakarta-3d.gif" alt="3D map of central Jakarta with simulated people, ojek, cars and trains moving through the day" width="100%"></a><br>
-  <sub><a href="https://dhaneswara-mandrasa.vercel.app"><b>▶ Explore Jakarta in 3D</b></a>, a simulated day in the city, on my portfolio</sub>
-</p>
-
 **CV and portfolio:** [dhaneswara-mandrasa.vercel.app](https://dhaneswara-mandrasa.vercel.app)<br>
 **CV (PDF):** [download](https://dhaneswaramandrasa.github.io/Dhaneswara_Mandrasa_CV.pdf)<br>
 **LinkedIn:** [linkedin.com/in/dhaneswaramandrasa](https://www.linkedin.com/in/dhaneswaramandrasa)<br>
 **Email:** dhaneswara.mandrasa@gmail.com
 
 **Current research:** I build LLM feature-extraction pipelines that turn unstructured geospatial text into reliable, validated features for causal and demand models. Current work: using NYC's January 2025 congestion toll as a natural experiment on millions of ride-hail trips, I test whether LLM-scored place features improve price-response and welfare estimates against a no-LLM baseline.
+
+<p align="center">
+  <a href="https://dhaneswara-mandrasa.vercel.app/nyc-3d"><img src="assets/nyc-3d.gif" alt="Flying from all of New York's taxi zones, coloured by LLM-scored place traits, down into Midtown Manhattan in 3D" width="100%"></a><br>
+  <sub><a href="https://dhaneswara-mandrasa.vercel.app/nyc-3d"><b>▶ Explore New York in 3D</b></a>: GeoTraitVec place traits for 261 taxi zones and the congestion toll zone. Thesis code is private for now; <a href="https://dhaneswara-mandrasa.vercel.app/project-thesis">read the write-up</a>.</sub>
+</p>
 
 ### Projects you can open in the browser
 

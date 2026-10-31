@@ -31,9 +31,9 @@ Senior Data Scientist with 8+ years across telecom, banking, geospatial and comm
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://dhaneswaramandrasa.github.io/Jabodetabek-Transit-Equity-Mapper/"><img src="https://raw.githubusercontent.com/dhaneswaramandrasa/Jabodetabek-Transit-Equity-Mapper/main/docs/showcase-3d.gif" alt="Jabodetabek transit deserts in 3D" width="100%"></a>
-      <b><a href="https://github.com/dhaneswaramandrasa/Jabodetabek-Transit-Equity-Mapper">Jabodetabek Transit Equity Mapper</a></b><br>
-      Where transit fails the people who need it most, on open data.
+      <a href="https://dhaneswaramandrasa.github.io/alt-credit-scoring/"><img src="https://raw.githubusercontent.com/dhaneswaramandrasa/alt-credit-scoring/main/docs/demo.gif" alt="Credit scorecard from telco behaviour: applicants, score curves and a map of Jabodetabek" width="100%"></a>
+      <b><a href="https://github.com/dhaneswaramandrasa/alt-credit-scoring">Alternative Credit Scoring</a></b><br>
+      A credit score for people with no credit file, from top-ups, tenure and where the phone sleeps at night.
     </td>
     <td width="50%" valign="top">
       <a href="https://dhaneswaramandrasa.github.io/retail-site-selection/"><img src="assets/retail-3d.gif" alt="Retail site selection 3D map" width="100%"></a>
@@ -47,11 +47,7 @@ Senior Data Scientist with 8+ years across telecom, banking, geospatial and comm
       <b><a href="https://github.com/dhaneswaramandrasa/ses-satellite">SES from Satellite Imagery</a></b><br>
       Socio-economic status for every map cell from satellite images, at 1 km and then 100 m.
     </td>
-    <td width="50%" valign="top">
-      <a href="https://dhaneswaramandrasa.github.io/alt-credit-scoring/"><img src="https://raw.githubusercontent.com/dhaneswaramandrasa/alt-credit-scoring/main/docs/demo.gif" alt="Credit scorecard from telco behaviour: applicants, score curves and a map of Jabodetabek" width="100%"></a>
-      <b><a href="https://github.com/dhaneswaramandrasa/alt-credit-scoring">Alternative Credit Scoring</a></b><br>
-      A credit score for people with no credit file, from top-ups, tenure and where the phone sleeps at night.
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 

@@ -41,6 +41,14 @@ Senior Data Scientist with 8+ years across telecom, banking, geospatial and comm
       Where to open the next store: every map cell scored from demographics, places and mobility.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dhaneswaramandrasa.github.io/ses-satellite/"><img src="https://raw.githubusercontent.com/dhaneswaramandrasa/ses-satellite/main/docs/demo-3d.gif" alt="Socio-economic status estimated from satellite imagery of Malang in 3D" width="100%"></a>
+      <b><a href="https://github.com/dhaneswaramandrasa/ses-satellite">SES from Satellite Imagery</a></b><br>
+      Socio-economic status for every map cell from satellite images, at 1 km and then 100 m.
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <sub>All demos run on simulated or open data. Client work stays confidential.</sub>

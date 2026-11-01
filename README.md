@@ -48,7 +48,7 @@ Senior Data Scientist with 8+ years across telecom, banking, geospatial and comm
       Socio-economic status for every map cell from satellite images, at 1 km and then 100 m.
     </td>
     <td width="50%" valign="top">
-      <a href="https://dhaneswaramandrasa.github.io/plantation-root-cause/"><img src="https://raw.githubusercontent.com/dhaneswaramandrasa/plantation-root-cause/main/docs/demo-3d.gif" alt="3D map of an oil palm estate with the diagnosed cause of low yield for every block" width="100%"></a>
+      <a href="https://dhaneswaramandrasa.github.io/plantation-root-cause/"><img src="https://raw.githubusercontent.com/dhaneswaramandrasa/plantation-root-cause/main/docs/demo-3d.gif" alt="A pulpwood plantation drawn as trees, with the diagnosed cause of slow growth for every block" width="100%"></a>
       <b><a href="https://github.com/dhaneswaramandrasa/plantation-root-cause">Root-Cause Diagnosis for Plantation Yield</a></b><br>
       Is a weak block the land, the pesticide or the species? Click a block to see the diagnosis.
     </td>
